@@ -1,0 +1,15 @@
+.calculate {
+    width: 400px;
+    margin: auto;
+    padding-top: 5px;
+}
+
+.calculate input{
+    margin: 5px;
+    padding: 5px;
+}
+
+.calculate label{
+    float: left;
+    width: 7em;
+}
