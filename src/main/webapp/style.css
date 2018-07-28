@@ -5,6 +5,12 @@
 }
 
 .calculate input{
+    width: 12em;
+    margin: 5px;
+    padding: 5px;
+}
+.calculate select{
+    width: 12em;
     margin: 5px;
     padding: 5px;
 }

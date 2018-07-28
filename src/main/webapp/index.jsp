@@ -20,7 +20,12 @@
               <label>First operand:</label>
               <input type="number" name="first">  <br>
               <label>Operator:</label>
-              <input type="text" name="operator">  <br>
+              <select name="operator">
+                  <option value="+">Addition</option>
+                  <option value="-">Subtraction</option>
+                  <option value="*">Multiplication</option>
+                  <option value="/">Division</option>
+              </select>  <br>
               <label>Second operand:</label>
               <input type="number" name="second">  <br>
               <label>   </label>
